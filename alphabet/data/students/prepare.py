@@ -14,6 +14,7 @@ building_blocks = [
     'Phu Nguyen',
     'Fake student one',
     'Fausse etudiante deux',
+    'Son Nguyen',
     'Maximo Sanchez',
     'Lionel Messi',
     'Matt Ferland',
